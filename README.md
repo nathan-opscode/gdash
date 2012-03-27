@@ -9,7 +9,7 @@ described using a small DSL.
 See the _sample_ directory for an example dashboard including
 a screenshot.
 
-Here is an [example dashboard](images/email.png) and [example full screen mode](images/email-full-screen.png).
+Here is an [example dashboard](sample/email.png) and [example full screen mode](sample/email-full-screen.png).
 
 Config?
 -------
